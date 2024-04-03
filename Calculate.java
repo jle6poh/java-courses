@@ -1,5 +1,5 @@
 /**
- * Created by User on 02.12.2016.
+ * Created by User on 02.12.2016. // 03.04.2024 by isushkov
  */
 public class Calculate {
 
